@@ -1,0 +1,14 @@
+{
+    "name":	"Rubber Ducky Debugger Extension",
+    "version":	"0.1.0",
+    "description":	"This is an extension to connect help you debug your code.",
+    "manifest_version":	3,
+    "author": "Daniel Bliss",
+    "icons": {
+    "16": "static/duck-favicon16.png",
+    "32": "static/duck-favicon32.png"
+    },
+    "action": {
+    "default_popup": "duck.html"
+    }
+}	
