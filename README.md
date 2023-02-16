@@ -6,7 +6,7 @@ A simple Chrome extension to help you debug your code.
 
 ## Overview
 
-This extension provides a quick and easy way to debug your code. It contains a simple UI that displays a rubber ducky image and a message, "What's wrong?" to prompt you to start debugging. Inspiration for this mini project came from the Harvard CS50 course where I was first introductd to the concept of rubber duck debugging.
+This extension provides a quick and easy way to debug your code. It contains a simple UI that displays a rubber ducky image and a message, "What's wrong?" to prompt you to start debugging. Inspiration for this mini project came from the Harvard CS50 course where I was first introduced to the concept of rubber duck debugging.
 
 ![Rubber Ducky Debugger](https://i.imgur.com/43TGsNK.png)
 
